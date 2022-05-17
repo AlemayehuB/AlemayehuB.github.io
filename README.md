@@ -1,3 +1,6 @@
-# AlemayehuB.github.io
+# pmocz.github.io
 
-This pertains to my personal website
+Source code for my website http://pmocz.github.io
+
+Philip Mocz
+

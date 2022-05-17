@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Philip Mocz</title>
+  <link>https://pmocz.github.io/</link>
+  <description>Recent papers (PM)</description>
+  <language>en-us</language>
+  <image>
+    <url>https://pmocz.github.io/img/llnl-logo.png</url>
+    <link>https://pmocz.github.io/</link>
+  </image>
+
+  <item>
+      <title>Galaxy Formation with BECDM - II. </title>
+      <link>https://pmocz.github.io/#publications</link>
+      <description>Fuzzy dark matter paper 2 on arXiv</description>
+      <pubDate>Tue, 27 Nov 2019 08:00:00 EST</pubDate>
+  </item>
+
+  <item>
+      <title>First star-forming structures in fuzzy cosmic filaments</title>
+      <link>https://pmocz.github.io/#publications</link>
+      <description>PRL paper published</description>
+      <pubDate>Tue, 26 Nov 2019 08:00:00 EST</pubDate>
+  </item>
+
+  <item>
+      <title>RSS feed starts</title>
+      <link>https://pmocz.github.io/#publications</link>
+      <description>RSS begins</description>
+      <pubDate>Tue, 25 Nov 2019 08:00:00 EST</pubDate>
+  </item>
+    
+</channel>
+</rss> 
