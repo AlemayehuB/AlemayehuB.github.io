@@ -1,6 +1,6 @@
-# pmocz.github.io
+# alemayehub.github.io
 
-Source code for my website http://pmocz.github.io
+Source code for my website http://alemayehub.github.io
 
-Philip Mocz
+Alemayehu Solomon Bogale
 
