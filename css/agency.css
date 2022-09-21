@@ -61,7 +61,7 @@ body {
   -webkit-tap-highlight-color: #124A92; }
 
 #mainNav {
-  background-color: #eeeeee; 
+  background-color: #eeeeee;
   border-bottom: 1px solid; }
   #mainNav .navbar-toggler {
     font-size: 12px;
@@ -83,7 +83,7 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: #000000;
+    color: #F8F8FF;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -116,9 +116,9 @@ body {
 
 header.masthead {
   text-align: center;
-  color: #000000;
-  background-image: url("../img/header-bg.jpg");
-  background-repeat: no-repeat;
+  color: #F8F8FF;
+  background-image: url("/home/alem/Documents/AlemayehuB.github.io/img/pic.gif");
+  background-repeat: repeat;
   background-attachment: scroll;
   background-position: center center;
   -webkit-background-size: cover;
@@ -431,7 +431,7 @@ header.masthead {
     text-transform: none; }
   .team-member p {
     margin-top: 0; }
-    
+
 .team-member-small {
   margin-bottom: 50px;
   text-align: center; }
