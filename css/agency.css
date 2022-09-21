@@ -117,7 +117,7 @@ body {
 header.masthead {
   text-align: center;
   color: #F8F8FF;
-  background-image: url("/home/alem/Documents/AlemayehuB.github.io/img/pic.gif");
+  background-image: url("img/pic.gif");
   background-repeat: repeat;
   background-attachment: scroll;
   background-position: center center;
